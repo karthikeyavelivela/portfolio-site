@@ -37,20 +37,11 @@ const Footer = () => {
                         <span className="flex font-bold uppercase text-textlight pb-1">Socials</span>
                         <div className='w-full h-[1px] bg-textlight mx-auto mb-3'></div>
                         <div className="flex flex-col gap-y-2">
-                            <a className="relative h-fit w-fit overflow-hidden font-medium text-texlight" href="https://www.linkedin.com/in/pranav-rao-b00926223/" target='_blank'>
+                            <a className="relative h-fit w-fit overflow-hidden font-medium text-texlight" href="https://www.linkedin.com/in/karthikeya-velivela/" target='_blank'>
                                 <ArrowRightIcon /><span className="link1">LinkedIn</span>
                             </a>
-                            <a className="relative h-fit w-fit overflow-hidden font-medium text-texlight" href="https://github.com/PranavRao18" target='_blank'>
+                            <a className="relative h-fit w-fit overflow-hidden font-medium text-texlight" href="https://github.com/karthikeyavelivela" target='_blank'>
                                 <ArrowRightIcon /><span className="link1">Github</span>
-                            </a>
-                            <a className="relative h-fit w-fit overflow-hidden font-medium text-texlight" href="https://leetcode.com/u/pranavrao/" target='_blank'>
-                                <ArrowRightIcon /><span className="link1">Leetcode</span>
-                            </a>
-                            <a className="relative h-fit w-fit overflow-hidden font-medium text-texlight" href="https://www.codechef.com/users/pranavrao18" target='_blank'>
-                                <ArrowRightIcon /><span className="pr-[10px] link1">Codechef</span>
-                            </a>
-                            <a className="relative h-fit w-fit overflow-hidden font-medium text-texlight" href="https://codeforces.com/profile/pranavrao18" target='_blank'>
-                                <ArrowRightIcon /><span className="pr-[10px] link1">Codeforces</span>
                             </a>
                         </div>
                     </div>
@@ -58,9 +49,6 @@ const Footer = () => {
                         <span className="flex font-bold uppercase text-textlight pb-1">Resources</span>
                         <div className='w-full h-[1px] bg-textlight mx-auto mb-3'></div>
                         <div className="flex flex-col gap-y-2">
-                            <a className="relative h-fit w-fit overflow-hidden font-medium text-texlight" href="https://pranavraov1.netlify.app" target='_blank'>
-                                <ArrowRightIcon /><span className="pr-[10px] link1">Portoflio V1</span>
-                            </a>
                         </div>
                     </div>
                 </div>

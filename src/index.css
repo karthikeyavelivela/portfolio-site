@@ -49,12 +49,12 @@
 }
 
 .glass {
-  background: rgba(255, 255, 255, 0.13);
+  background: rgba(201, 125, 96, 0.1);
   border-radius: 16px;
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 30px rgba(44, 24, 16, 0.3);
   backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(7px);
-  border: 1px solid rgba(255, 255, 255, 0.43);
+  border: 1px solid rgba(212, 165, 116, 0.3);
 }
 
 .glass:hover {

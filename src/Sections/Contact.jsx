@@ -26,9 +26,9 @@ function Contacts() {
             'template_jfd95cl',
             {
                 from_name: form.name,
-                to_name: 'Pranav',
+                to_name: 'Karthikeya',
                 from_email: form.email,
-                to_email: 'pranavrao3026@gmail.com',
+                to_email: 'velivelakarthikeya@gmail.com',
                 message: form.message,
                 reply_to: form.email,
             },
